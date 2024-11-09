@@ -1,0 +1,21 @@
+<div class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center" (click)="closeModal()">
+  <div class="bg-white p-4 rounded-lg shadow-lg relative" (click)="$event.stopPropagation()">
+    <form class="bg-white p-8 rounded-lg shadow-lg w-full max-w-sm">
+      <h2 class="text-2xl font-semibold text-gray-700 mb-6 text-center">Enter Album Name</h2>
+
+      <!-- Name Field -->
+      <div class="mb-4">
+        <label for="name" class="block text-gray-600 text-sm font-medium mb-2">Album Name</label>
+        <input type="text" id="name" name="name" [(ngModel)]="albumName"
+          class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+          required>
+      </div>
+
+      <!-- Submit Button -->
+      <button type="submit" (click)="submitModal()"
+        class="w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 rounded-lg transition duration-200">
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
