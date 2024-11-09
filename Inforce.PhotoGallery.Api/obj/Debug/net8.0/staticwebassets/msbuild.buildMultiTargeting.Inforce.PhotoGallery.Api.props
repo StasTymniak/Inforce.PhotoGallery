@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inforce.PhotoGallery.Api.props" />
+</Project>

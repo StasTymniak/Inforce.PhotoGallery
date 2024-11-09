@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\Inforce.PhotoGallery\\Inforce.PhotoGallery.Api\\wwwroot\\Images\\image1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\image1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\Inforce.PhotoGallery\\Inforce.PhotoGallery.Api\\wwwroot\\Images\\image2.jpg",
+      "PackagePath": "staticwebassets\\Images\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\Inforce.PhotoGallery\\Inforce.PhotoGallery.Api\\wwwroot\\Images\\image3.jpg",
+      "PackagePath": "staticwebassets\\Images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\Inforce.PhotoGallery\\Inforce.PhotoGallery.Api\\wwwroot\\Images\\image4.jpg",
+      "PackagePath": "staticwebassets\\Images\\image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\Inforce.PhotoGallery\\Inforce.PhotoGallery.Api\\wwwroot\\Images\\image5.jpg",
+      "PackagePath": "staticwebassets\\Images\\image5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Inforce.PhotoGallery.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Inforce.PhotoGallery.Api.props",
+      "PackagePath": "build\\Inforce.PhotoGallery.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Inforce.PhotoGallery.Api.props",
+      "PackagePath": "buildMultiTargeting\\Inforce.PhotoGallery.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Inforce.PhotoGallery.Api.props",
+      "PackagePath": "buildTransitive\\Inforce.PhotoGallery.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

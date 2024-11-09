@@ -1,0 +1,6 @@
+@Inforce.PhotoGallery.Api_HostAddress = http://localhost:5260
+
+GET {{Inforce.PhotoGallery.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
